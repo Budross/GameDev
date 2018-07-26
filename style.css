@@ -1,0 +1,8 @@
+#firstcanvas {
+	border: 1px solid black;
+
+	display: block;
+	width: 1280px;
+	height: 720px;
+	margin: 0 auto;
+}
